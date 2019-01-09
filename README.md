@@ -1,7 +1,6 @@
-*Deprecated*, please use [ofxLatheMesh](https://github.com/edap/ofxLatheMesh)
+# Deprecated
 
-
-# ofxLathePrimitive
+please use [ofxLatheMesh](https://github.com/edap/ofxLatheMesh)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/hwecbliusfhxd5nf?svg=true)](https://ci.appveyor.com/project/edap/ofxlatheprimitive)
 [![Build Status](https://travis-ci.org/edap/ofxLathePrimitive.svg?branch=master)](https://travis-ci.org/edap/ofxLathePrimitive)
